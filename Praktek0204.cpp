@@ -21,4 +21,6 @@ int main(){
 	
 	cout<<" Biaya Pasang (rp) 		= " <<BiayaPG<<endl;
 	TotalB = BiayaP+BiayaPG;
+	
+	cout<< " Total Biaya (rp)		=" <<TotalB<<endl;
 }
