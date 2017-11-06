@@ -33,5 +33,8 @@ int main() {
 			HS= 0.5*AL*TG;
 			cout <<"LUAS SEGI TIGA ADALAH :"<<HS;
 		}
+			else 
+		cout <<"PILIHANYA HANYA Ss dan Pp YANG KMAU KETIK   :" <<INS; cout<<"\n";
+		cout <<"TIDAK ADA DIPILIHAN KAMPRET";
 }
 
