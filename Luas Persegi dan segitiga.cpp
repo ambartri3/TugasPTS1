@@ -15,5 +15,15 @@ int main() {
 		cout<<"\n";
 		cout <<"TENTUKAN PILIHANMU SEKARANG       :";
 		cin >> INS;
+		
+		if (INS =='P'||INS=='p')
+		{
+			cout <<"Masukan TINGGI  :";
+			cin >> TG;
+			cout <<"masukan LEBAR	:";
+			cin>>LB;
+			HS=TG*LB;
+			cout <<"LUAS PERSEGI PANJANG ADALAH :"<<HS;
+		}
 }
 
