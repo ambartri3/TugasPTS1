@@ -30,11 +30,11 @@ int main() {
 			cout << "Masukan ALAS	:";
 			cin>>AL;
 			cout <<"Masukan TINGGI	:";
+			cin>>TG;
 			HS= 0.5*AL*TG;
 			cout <<"LUAS SEGI TIGA ADALAH :"<<HS;
 		}
 			else 
-		cout <<"PILIHANYA HANYA Ss dan Pp YANG KMAU KETIK   :" <<INS; cout<<"\n";
-		cout <<"TIDAK ADA DIPILIHAN KAMPRET";
+			cout <<" YANG BENER MASUKIN PILIHANNYA";
 }
 
