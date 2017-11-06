@@ -6,4 +6,7 @@ int main () {
 	
 	cout << "masukan bilangan  : ";
 	cin >>bil1;
+	
+	if (bil1>0)
+	cout << "itu adalah bilangan positif" ;
 }
