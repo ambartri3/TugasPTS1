@@ -11,4 +11,6 @@ int main () {
 	cout << "masukan bilangan kedua    : ";
 	cin >>bil2;
 	
+	if (bil1>bil2)
+	hasil = bil1 - bil2;
 }
