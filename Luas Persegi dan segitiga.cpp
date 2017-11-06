@@ -25,5 +25,13 @@ int main() {
 			HS=TG*LB;
 			cout <<"LUAS PERSEGI PANJANG ADALAH :"<<HS;
 		}
+		else if (INS=='S'||INS=='s')
+		{
+			cout << "Masukan ALAS	:";
+			cin>>AL;
+			cout <<"Masukan TINGGI	:";
+			HS= 0.5*AL*TG;
+			cout <<"LUAS SEGI TIGA ADALAH :"<<HS;
+		}
 }
 
