@@ -9,4 +9,7 @@ int main () {
 	
 	if (bil1>0)
 	cout << "itu adalah bilangan positif" ;
+	
+	else if (bil1<0)
+	cout << "itu adalah bilangan negatif" ;
 }
