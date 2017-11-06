@@ -13,4 +13,6 @@ int main () {
 	
 	if (bil1>bil2)
 	hasil = bil1 - bil2;
+	else
+	hasil = bil2 - bil1;
 }
