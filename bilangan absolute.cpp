@@ -15,4 +15,5 @@ int main () {
 	hasil = bil1 - bil2;
 	else
 	hasil = bil2 - bil1;
+	cout << "hasil bilangan absulte nya adalah: "<<hasil;
 }
