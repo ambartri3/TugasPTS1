@@ -12,4 +12,7 @@ int main () {
 	
 	else if (bil1<0)
 	cout << "itu adalah bilangan negatif" ;
+	
+	else
+	cout << "itu adalah bilangan nol";
 }
