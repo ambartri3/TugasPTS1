@@ -18,6 +18,7 @@ int main()
 	 else if (tb/2.3 < bb)
      cout << "Overweight" << endl;
      
-     
+     else if (tb/2.5 <= bb <= tb/2.3)
+     cout << "Normal" << endl;
 }
 
