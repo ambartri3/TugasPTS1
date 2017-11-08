@@ -23,4 +23,12 @@ if (jk>40){
 		cout<<"Pajak Yang Ditanggung Karyawan              : Rp  "<<pa<<endl;
 		cout<<"Total Gaji Bersih Yang Diterima Karyawan    : Rp  "<<gb<<endl;
 	}
+	else {
+		gtot=gp*40;
+		pa=gtot*0.15;
+		gb=gtot-pa;
+		
+		
+		
+	}
 }
