@@ -15,5 +15,9 @@ int main()
      if (bb<tb/2.5)
      cout << "Underweight" << endl;
 
+	 else if (tb/2.3 < bb)
+     cout << "Overweight" << endl;
+     
+     
 }
 
