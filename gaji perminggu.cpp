@@ -15,5 +15,12 @@ if (jk>40){
 	pa=ul*0.15;
 	gtot=gp-pa;
 	gb=gtot-(jk*40)+((gp-40)*jk*1.5);
+	
+		cout<<"Lama Kerja Karyawan Dalam Seminggu          : "<<jk<<" Jam"<<endl;
+		cout<<"Total Lembur Karyawan                       : "<<le<<" (dalam seminggu)"<<endl;
+		cout<<"Gaji Perjam Yang Karyawan Terima            : Rp  "<<gp<<endl;
+		cout<<"Upah Lembur Yang Diterima Karyawan          : Rp  "<<ul<<endl;
+		cout<<"Pajak Yang Ditanggung Karyawan              : Rp  "<<pa<<endl;
+		cout<<"Total Gaji Bersih Yang Diterima Karyawan    : Rp  "<<gb<<endl;
 	}
 }
